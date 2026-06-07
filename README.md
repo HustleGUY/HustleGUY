@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Prime the Hustlefellar 👋
 
-<!--
-**HustleGUY/HustleGUY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer specializing in **Next.js, Tailwind CSS, and Supabase**.
 
-Here are some ideas to get you started:
+## What I do
+- 🏢 Build commercial property websites
+- 🎨 Create responsive, modern designs
+- ⚡ Focus on performance and user experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Next.js 14 | React | TypeScript
+- Tailwind CSS | Framer Motion
+- Supabase | PostgreSQL
+
+## Currently working on
+- Commercial property management platforms
+- Client websites for real estate businesses
+
+## Let's connect
+- 💼 Open to freelance projects
+
+
